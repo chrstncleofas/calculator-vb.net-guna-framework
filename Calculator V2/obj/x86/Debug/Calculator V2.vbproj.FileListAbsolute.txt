@@ -1,0 +1,10 @@
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Calculator V2\Calculator V2\bin\Debug\Calculator V2.exe
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Calculator V2\Calculator V2\bin\Debug\Calculator V2.pdb
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Calculator V2\Calculator V2\bin\Debug\Calculator V2.xml
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Calculator V2\Calculator V2\bin\Debug\Guna.UI.dll
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Calculator V2\Calculator V2\obj\x86\Debug\Calculator_V2.Form1.resources
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Calculator V2\Calculator V2\obj\x86\Debug\Calculator_V2.Resources.resources
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Calculator V2\Calculator V2\obj\x86\Debug\Calculator V2.vbproj.GenerateResource.Cache
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Calculator V2\Calculator V2\obj\x86\Debug\Calculator V2.exe
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Calculator V2\Calculator V2\obj\x86\Debug\Calculator V2.xml
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Calculator V2\Calculator V2\obj\x86\Debug\Calculator V2.pdb
